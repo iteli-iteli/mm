@@ -233,58 +233,6 @@
       },
       "guarantee": {
         "type": "guarantee",
-        "blocks": {
-          "1561091496626": {
-            "type": "text",
-            "settings": {
-              "icon": "trophy",
-              "title": "Our Guarantee",
-              "text": "",
-              "button_style": "btn--primary",
-              "button_label": "",
-              "button_link": ""
-            }
-          },
-          "1561094726190": {
-            "type": "text",
-            "settings": {
-              "icon": "truck",
-              "title": "Our Guarantee",
-              "text": "",
-              "button_style": "btn--primary",
-              "button_label": "",
-              "button_link": ""
-            }
-          },
-          "1561094728717": {
-            "type": "text",
-            "settings": {
-              "icon": "rocket",
-              "title": "Our Guarantee",
-              "text": "",
-              "button_style": "btn--primary",
-              "button_label": "",
-              "button_link": ""
-            }
-          },
-          "1568138773612": {
-            "type": "text",
-            "settings": {
-              "icon": "thumbs-up",
-              "title": "Our Guarantee",
-              "text": "",
-              "button_style": "btn--primary",
-              "button_label": "",
-              "button_link": ""
-            }
-          }
-        },
-        "block_order": [
-          "1561091496626",
-          "1561094726190",
-          "1561094728717",
-          "1568138773612"
-        ],
         "settings": {
           "section_style": "bg-section",
           "icon_size": "fa-2x"
@@ -292,47 +240,8 @@
       },
       "footer": {
         "type": "footer",
-        "blocks": {
-          "1567916034743": {
-            "type": "text",
-            "settings": {
-              "height_logo": 40,
-              "title": "About Us",
-              "email": "info@company.com",
-              "phone": "1-800-123-4567",
-              "text": "<p>Share store details, promotions, or brand content with your customers.<\/p>"
-            }
-          },
-          "1567915289405": {
-            "type": "link_list",
-            "settings": {
-              "title": "Quick Links",
-              "footer_link_list": "footer"
-            }
-          },
-          "1567916075846": {
-            "type": "social_medias",
-            "settings": {
-              "title": "Follow us"
-            }
-          },
-          "1567916051811": {
-            "type": "newsletter",
-            "settings": {
-              "title": "Subscribe to our newsletter",
-              "subtitle": "A short sentence describing what someone will receive by subscribing",
-              "send_icon": "fa-envelope"
-            }
-          }
-        },
-        "block_order": [
-          "1567916034743",
-          "1567915289405",
-          "1567916075846",
-          "1567916051811"
-        ],
         "settings": {
-          "show_payment_icons": true
+          "show_payment_icons": false
         }
       },
       "product-template": {
@@ -349,7 +258,7 @@
           "button_cart_icon": true,
           "enable_payment_button": false,
           "show_description": true,
-          "social_sharing_products": true,
+          "social_sharing_products": false,
           "show_product_tags": true,
           "dbtfy_product_tabs_first": true
         }
@@ -394,44 +303,8 @@
       },
       "quotes": {
         "type": "quotes",
-        "blocks": {
-          "1561092450704": {
-            "type": "quote",
-            "settings": {
-              "quote": "<p>Share blog posts, products, or promotions with your customers. Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.<\/p>",
-              "author": "Author's name"
-            }
-          },
-          "1561092452531": {
-            "type": "quote",
-            "settings": {
-              "quote": "<p>Share blog posts, products, or promotions with your customers. Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.<\/p>",
-              "author": "Author's name"
-            }
-          },
-          "1561092453819": {
-            "type": "quote",
-            "settings": {
-              "quote": "<p>Share blog posts, products, or promotions with your customers. Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.<\/p>",
-              "author": "Author's name"
-            }
-          },
-          "1567614148826": {
-            "type": "quote",
-            "settings": {
-              "quote": "<p>Share blog posts, products, or promotions with your customers. Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.<\/p>",
-              "author": "Author's name"
-            }
-          }
-        },
-        "block_order": [
-          "1561092450704",
-          "1561092452531",
-          "1561092453819",
-          "1567614148826"
-        ],
         "settings": {
-          "title": "Testimonials",
+          "title": "",
           "subtitle": "",
           "section_style": "border-section",
           "quote_width": "70",
@@ -538,7 +411,7 @@
           "e476d52c-2061-43bb-8a58-acb47c2e4650"
         ],
         "settings": {
-          "dbtfy_quantity_breaks": true,
+          "dbtfy_quantity_breaks": false,
           "dbtfy_quantity_label": "Quantity",
           "dbtfy_quantity_breaks_text": "",
           "dbtfy_quantity_breaks_buy": "Buy",
