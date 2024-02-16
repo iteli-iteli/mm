@@ -246,6 +246,26 @@
       },
       "product-template": {
         "type": "product-template",
+        "blocks": {
+          "text_n3NjWw": {
+            "type": "text",
+            "settings": {
+              "text_alignment": "text-center",
+              "dbtfy_product_tabs_icon": "",
+              "dbtfy_product_tabs_title": "Potenza Assurda",
+              "dbtfy_product_tabs_text": "",
+              "dbtfy_product_tabs_image": "shopify:\/\/shop_images\/img-Aspiratore-4.png",
+              "dbtfy_product_tabs_html": "",
+              "dbtfy_product_tabs_type": "",
+              "dbtfy_product_tabs_tag": "",
+              "dbtfy_product_tabs_product": "",
+              "dbtfy_product_tabs_collection": ""
+            }
+          }
+        },
+        "block_order": [
+          "text_n3NjWw"
+        ],
         "settings": {
           "image_layout": "thumbnail",
           "product_photo_alignement": "left",
